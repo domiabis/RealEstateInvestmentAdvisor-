@@ -2,7 +2,8 @@ streamlit==1.39.0
 pandas
 numpy
 scikit-learn
-plotly
+plotly==5.22.0
 lightgbm
 pickle5
 zipfile36
+
