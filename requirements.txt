@@ -1,9 +1,10 @@
 streamlit==1.39.0
 pandas
 numpy
-scikit-learn
+scikit-learn==1.5.1
 plotly==5.22.0
 lightgbm
+
 
 
 
