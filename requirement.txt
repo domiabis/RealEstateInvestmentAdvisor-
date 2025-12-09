@@ -3,5 +3,6 @@ pandas
 numpy
 scikit-learn
 plotly
-xgboost
+lightgbm
 pickle5
+zipfile36
